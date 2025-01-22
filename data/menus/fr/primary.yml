@@ -22,4 +22,11 @@ items:
   children: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
+- title: Page de test
+  target: "/page-de-test/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/page-de-test"
+  file: content/fr/pages/page-de-test/_index.html
 
