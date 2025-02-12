@@ -2,6 +2,11 @@
 
 baseURL: https://metropole.rennes.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 48dd9ed3-afed-43b0-878e-30b4cd9dc616
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
