@@ -36,4 +36,18 @@ items:
   children: []
   path: "/pages/participation-citoyenne"
   file: content/fr/pages/participation-citoyenne/_index.html
+- title: Appels à projets, partenariats et coopérations
+  target: "/appels-a-projets-partenariats-et-cooperations/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/appels-a-projets-partenariats-et-cooperations"
+  file: content/fr/pages/appels-a-projets-partenariats-et-cooperations/_index.html
+- title: Marchés publics et documents réglementaires
+  target: "/marches-publics-et-documents-reglementaires/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/marches-publics-et-documents-reglementaires"
+  file: content/fr/pages/marches-publics-et-documents-reglementaires/_index.html
 
