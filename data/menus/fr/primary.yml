@@ -1,0 +1,53 @@
+---
+title: Menu principal
+items:
+- title: Actualités
+  target: "/actualites/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/posts"
+  file: content/fr/posts/_index.html
+- title: Équipe
+  target: "/equipe/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/persons"
+  file: content/fr/persons/_index.html
+- title: Organisations
+  target: "/organisations/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/organizations"
+  file: content/fr/organizations/_index.html
+- title: Les institutions de la Ville et de la Métropole
+  target: "/les-institutions-de-la-ville-et-de-la-metropole/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/les-institutions-de-la-ville-et-de-la-metropole"
+  file: content/fr/pages/les-institutions-de-la-ville-et-de-la-metropole/_index.html
+- title: Participation citoyenne
+  target: "/participation-citoyenne/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/participation-citoyenne"
+  file: content/fr/pages/participation-citoyenne/_index.html
+- title: Appels à projets, partenariats et coopérations
+  target: "/appels-a-projets-partenariats-et-cooperations/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/appels-a-projets-partenariats-et-cooperations"
+  file: content/fr/pages/appels-a-projets-partenariats-et-cooperations/_index.html
+- title: Marchés publics et documents réglementaires
+  target: "/marches-publics-et-documents-reglementaires/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/marches-publics-et-documents-reglementaires"
+  file: content/fr/pages/marches-publics-et-documents-reglementaires/_index.html
+
