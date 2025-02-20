@@ -41,6 +41,11 @@ items:
     kind: url
     new_tab: true
     children: []
+  - title: Numérique, recherche et temps
+    target: numerique-recherche.metropole.rennes.fr
+    kind: url
+    new_tab: true
+    children: []
 - title: Votre Métropole
   target: ''
   kind: blank
