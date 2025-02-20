@@ -16,4 +16,9 @@ items:
   kind: url
   new_tab: true
   children: []
+- title: Communication numérique
+  target: https://comnum.rennes.fr/
+  kind: url
+  new_tab: true
+  children: []
 
