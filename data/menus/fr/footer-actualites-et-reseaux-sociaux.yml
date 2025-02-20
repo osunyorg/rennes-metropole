@@ -11,4 +11,9 @@ items:
   kind: url
   new_tab: true
   children: []
+- title: Youtube
+  target: https://www.youtube.com/channel/UCmWWc_6kL1Pxy8zNSxy79Ww
+  kind: url
+  new_tab: true
+  children: []
 
