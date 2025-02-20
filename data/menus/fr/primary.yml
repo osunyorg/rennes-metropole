@@ -5,7 +5,12 @@ items:
   target: ''
   kind: blank
   new_tab: false
-  children: []
+  children:
+  - title: Rennes Ville et Métropole
+    target: metropole.rennes.fr
+    kind: url
+    new_tab: true
+    children: []
 - title: Votre Métropole
   target: ''
   kind: blank
