@@ -11,4 +11,9 @@ items:
   kind: url
   new_tab: true
   children: []
+- title: Portail Open Data
+  target: https://data.rennesmetropole.fr/page/home/
+  kind: url
+  new_tab: true
+  children: []
 
