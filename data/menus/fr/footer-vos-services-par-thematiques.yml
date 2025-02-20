@@ -21,4 +21,9 @@ items:
   kind: url
   new_tab: false
   children: []
+- title: Aides, solidarités et égalité
+  target: aides.metropole.rennes.fr
+  kind: url
+  new_tab: false
+  children: []
 
