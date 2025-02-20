@@ -1,2 +1,8 @@
 theme: rennes-hugo-theme
 _merge: deep
+params:
+  # RENNES THEME CUSTOM
+  custom:
+    is_main: true
+    external_logo_link:
+      active: false
