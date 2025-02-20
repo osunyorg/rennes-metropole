@@ -21,4 +21,9 @@ items:
   kind: url
   new_tab: true
   children: []
+- title: Facebook
+  target: https://www.facebook.com/metropole.rennes
+  kind: url
+  new_tab: true
+  children: []
 
