@@ -1,4 +1,9 @@
 ---
 title: Vos services par thématiques
-items: []
+items:
+- title: Rennes Ville et Métropole
+  target: metropole.rennes.fr
+  kind: url
+  new_tab: false
+  children: []
 
