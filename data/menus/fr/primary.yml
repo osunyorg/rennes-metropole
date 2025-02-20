@@ -21,6 +21,11 @@ items:
     kind: url
     new_tab: true
     children: []
+  - title: Transports et circulation
+    target: transport.metropole.rennes.fr
+    kind: url
+    new_tab: true
+    children: []
 - title: Votre Métropole
   target: ''
   kind: blank
