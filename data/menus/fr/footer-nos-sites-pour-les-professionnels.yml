@@ -4,7 +4,7 @@ items:
 - title: Espace presse
   target: presse.metropole.rennes.fr
   kind: url
-  new_tab: false
+  new_tab: true
   children: []
 - title: Rennes Demain
   target: https://www.entreprendre-rennes.fr/
