@@ -16,4 +16,9 @@ items:
   kind: url
   new_tab: true
   children: []
+- title: Linkedin
+  target: https://www.linkedin.com/company/rennes-m-tropole/
+  kind: url
+  new_tab: true
+  children: []
 
