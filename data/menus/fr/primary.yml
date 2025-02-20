@@ -36,6 +36,11 @@ items:
     kind: url
     new_tab: true
     children: []
+  - title: Logement et urbanisme
+    target: logement.metropole.rennes.fr
+    kind: url
+    new_tab: true
+    children: []
 - title: Votre Métropole
   target: ''
   kind: blank
