@@ -6,4 +6,9 @@ items:
   kind: url
   new_tab: true
   children: []
+- title: Notre app Ici Rennes
+  target: https://play.google.com/store/apps/details?id=com.ecitiz.ubiloop.icirennes&hl=fr
+  kind: url
+  new_tab: true
+  children: []
 
