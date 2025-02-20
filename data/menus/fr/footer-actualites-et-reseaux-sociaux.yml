@@ -1,4 +1,9 @@
 ---
 title: Actualités et réseaux sociaux
-items: []
+items:
+- title: Ici Rennes Actualités
+  target: ici.rennes.fr
+  kind: url
+  new_tab: true
+  children: []
 
