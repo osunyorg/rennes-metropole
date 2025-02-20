@@ -65,7 +65,14 @@ items:
   target: ''
   kind: blank
   new_tab: false
-  children: []
+  children:
+  - title: Les institutions de la Ville et de la Métropole
+    target: "/les-institutions-de-la-ville-et-de-la-metropole/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/les-institutions-de-la-ville-et-de-la-metropole"
+    file: content/fr/pages/les-institutions-de-la-ville-et-de-la-metropole/_index.html
 - title: Votre commune
   target: ''
   kind: blank
