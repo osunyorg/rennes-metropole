@@ -11,4 +11,9 @@ items:
   kind: url
   new_tab: false
   children: []
+- title: Logement er urbanisme
+  target: logement.metropole.rennes.fr
+  kind: url
+  new_tab: false
+  children: []
 
