@@ -16,4 +16,9 @@ items:
   kind: blank
   new_tab: false
   children: []
+- title: Votre quartier
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
 
