@@ -51,6 +51,11 @@ items:
     kind: url
     new_tab: false
     children: []
+  - title: Économie et emploi
+    target: economie.metropole.rennes.fr
+    kind: url
+    new_tab: false
+    children: []
 - title: Votre Métropole
   target: ''
   kind: blank
