@@ -16,6 +16,11 @@ items:
     kind: url
     new_tab: true
     children: []
+  - title: Démarches administratives
+    target: demarches.metropole.rennes.fr
+    kind: url
+    new_tab: true
+    children: []
 - title: Votre Métropole
   target: ''
   kind: blank
