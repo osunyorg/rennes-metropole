@@ -6,4 +6,9 @@ items:
   kind: url
   new_tab: false
   children: []
+- title: Rennes Demain
+  target: https://www.entreprendre-rennes.fr/
+  kind: url
+  new_tab: true
+  children: []
 
