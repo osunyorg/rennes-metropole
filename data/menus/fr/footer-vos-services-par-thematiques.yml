@@ -32,7 +32,7 @@ items:
   new_tab: false
   children: []
 - title: Logement et urbanisme
-  target: logement.metropole.rennes.fr
+  target: https://logement.metropole.rennes.fr
   kind: url
   new_tab: false
   children: []
