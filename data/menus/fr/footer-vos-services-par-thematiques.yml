@@ -12,7 +12,7 @@ items:
   new_tab: false
   children: []
 - title: Démarches administratives
-  target: demarches.metropole.rennes.fr
+  target: https://demarches.metropole.rennes.fr
   kind: url
   new_tab: false
   children: []
