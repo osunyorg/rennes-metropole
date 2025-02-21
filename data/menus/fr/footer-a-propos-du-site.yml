@@ -2,8 +2,8 @@
 title: À propos du site
 items:
 - title: Mentions légales
-  target: "/mentions-legales/"
-  kind: page
+  target: https://metropole.rennes.fr/mentions-legales
+  kind: url
   new_tab: false
   children: []
   path: "/pages/mentions-legales"
