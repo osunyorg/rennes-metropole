@@ -27,7 +27,7 @@ items:
     new_tab: false
     children: []
   - title: Enfance, éducation, jeunesse
-    target: education-jeunesse.metropole.rennes.fr
+    target: https://education-jeunesse.metropole.rennes.fr
     kind: url
     new_tab: false
     children: []
