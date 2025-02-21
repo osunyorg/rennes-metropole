@@ -86,8 +86,8 @@ items:
     path: "/pages/appels-a-projets-partenariats-et-cooperations"
     file: content/fr/pages/appels-a-projets-partenariats-et-cooperations/_index.html
   - title: Documents et archives officielles Ville et Métropole
-    target: "/documents-et-archives-officielles-ville-et-metropole/"
-    kind: page
+    target: https://metropole.fr/documents-et-archives-officielles-ville-et-metropole/
+    kind: url
     new_tab: false
     children: []
     path: "/pages/documents-et-archives-officielles-ville-et-metropole"
