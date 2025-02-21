@@ -21,6 +21,11 @@ items:
   kind: url
   new_tab: false
   children: []
+- title: Enfance, éducation, jeunesse
+  target: education-jeunesse.metropole.rennes.fr
+  kind: url
+  new_tab: false
+  children: []
 - title: Logement et urbanisme
   target: logement.metropole.rennes.fr
   kind: url
@@ -28,11 +33,6 @@ items:
   children: []
 - title: Culture et Sports
   target: culture-sport.metropole.rennes.fr
-  kind: url
-  new_tab: false
-  children: []
-- title: Enfance, éducation, jeunesse
-  target: education-jeunesse.metropole.rennes.fr
   kind: url
   new_tab: false
   children: []
