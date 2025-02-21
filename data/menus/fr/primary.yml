@@ -7,7 +7,7 @@ items:
   new_tab: false
   children:
   - title: Rennes Ville et Métropole
-    target: metropole.rennes.fr
+    target: https://metropole.rennes.fr
     kind: url
     new_tab: false
     children: []
