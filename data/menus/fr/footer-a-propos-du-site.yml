@@ -16,8 +16,8 @@ items:
   path: "/pages/accessibilite"
   file: content/fr/pages/accessibilite/_index.html
 - title: Politique de confidentialité
-  target: "/politique-de-confidentialite/"
-  kind: page
+  target: https://metropole.rennes.fr/politique-de-confidentialite
+  kind: url
   new_tab: false
   children: []
   path: "/pages/politique-de-confidentialite"
