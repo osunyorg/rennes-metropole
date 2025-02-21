@@ -52,12 +52,12 @@ items:
     new_tab: false
     children: []
   - title: Économie et emploi
-    target: economie.metropole.rennes.fr
+    target: https://economie.metropole.rennes.fr
     kind: url
     new_tab: false
     children: []
   - title: Culture et Sports
-    target: culture-sport.metropole.rennes.fr
+    target: https://culture-sport.metropole.rennes.fr
     kind: url
     new_tab: false
     children: []
@@ -67,8 +67,8 @@ items:
   new_tab: false
   children:
   - title: Les institutions de la Ville et de la Métropole
-    target: "/les-institutions-de-la-ville-et-de-la-metropole/"
-    kind: page
+    target: https://metropole.fr/les-institutions-de-la-ville-et-de-la-metropole/
+    kind: url
     new_tab: false
     children: []
     path: "/pages/les-institutions-de-la-ville-et-de-la-metropole"
