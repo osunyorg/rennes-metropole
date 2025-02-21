@@ -74,8 +74,8 @@ items:
     path: "/pages/les-institutions-de-la-ville-et-de-la-metropole"
     file: content/fr/pages/les-institutions-de-la-ville-et-de-la-metropole/_index.html
   - title: Participation citoyenne
-    target: "/participation-citoyenne/"
-    kind: page
+    target: https://metropole.fr/participation-citoyenne/
+    kind: url
     new_tab: false
     children: []
     path: "/pages/participation-citoyenne"
