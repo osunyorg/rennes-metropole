@@ -36,23 +36,23 @@ items:
   kind: url
   new_tab: false
   children: []
-- title: Culture et Sports
-  target: culture-sport.metropole.rennes.fr
-  kind: url
-  new_tab: false
-  children: []
 - title: Numérique, recherche et temps
   target: numerique-recherche.metropole.rennes.fr
   kind: url
   new_tab: false
   children: []
-- title: Économie et emploi
-  target: economie.metropole.rennes.fr
+- title: Santé et environnement
+  target: environnement-sante.metropole.rennes.fr
   kind: url
   new_tab: false
   children: []
-- title: Santé et environnement
-  target: environnement-sante.metropole.rennes.fr
+- title: Culture et Sports
+  target: culture-sport.metropole.rennes.fr
+  kind: url
+  new_tab: false
+  children: []
+- title: Économie et emploi
+  target: economie.metropole.rennes.fr
   kind: url
   new_tab: false
   children: []
