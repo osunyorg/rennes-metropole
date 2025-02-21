@@ -79,8 +79,8 @@ items:
     new_tab: false
     children: []
   - title: Appels à projets, partenariats et coopérations
-    target: "/appels-a-projets-partenariats-et-cooperations/"
-    kind: page
+    target: https://metropole.fr/appels-a-projets-partenariats-et-cooperations/
+    kind: url
     new_tab: false
     children: []
     path: "/pages/appels-a-projets-partenariats-et-cooperations"
