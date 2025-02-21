@@ -8,6 +8,27 @@ fr:
   languageName: Français
   params:
     contact_details:
+      social_networks:
+        facebook:
+          label: >-
+            metropole.rennes
+          value: >-
+            https://www.facebook.com/metropole.rennes
+        instagram:
+          label: >-
+            rennesvilleetmetropole
+          value: >-
+            https://instagram.com/rennesvilleetmetropole
+        linkedin:
+          label: >-
+            rennes-m-tropole
+          value: >-
+            https://www.linkedin.com/company/rennes-m-tropole/
+        youtube:
+          label: >-
+            channelUCmWWc_6kL1Pxy8zNSxy79Ww
+          value: >-
+            https://www.youtube.com/@channelUCmWWc_6kL1Pxy8zNSxy79Ww
 
   permalinks:
     pages_categories: /:slug/
