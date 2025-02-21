@@ -32,7 +32,7 @@ items:
     new_tab: false
     children: []
   - title: Déchets et propreté
-    target: dechets.metropole.rennes.fr
+    target: https://dechets.metropole.rennes.fr
     kind: url
     new_tab: false
     children: []
