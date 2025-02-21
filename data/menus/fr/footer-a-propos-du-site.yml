@@ -9,8 +9,8 @@ items:
   path: "/pages/mentions-legales"
   file: content/fr/pages/mentions-legales/_index.html
 - title: Accessibilité
-  target: "/accessibilite/"
-  kind: page
+  target: https://metropole.rennes.fr/accessibilite
+  kind: url
   new_tab: false
   children: []
   path: "/pages/accessibilite"
