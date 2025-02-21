@@ -22,7 +22,7 @@ items:
     new_tab: false
     children: []
   - title: Transports et circulation
-    target: transport.metropole.rennes.fr
+    target: https://transport.metropole.rennes.fr
     kind: url
     new_tab: false
     children: []
