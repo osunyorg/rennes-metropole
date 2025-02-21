@@ -11,6 +11,11 @@ items:
   kind: url
   new_tab: false
   children: []
+- title: Démarches administratives
+  target: demarches.metropole.rennes.fr
+  kind: url
+  new_tab: false
+  children: []
 - title: Transports et circulation
   target: transport.metropole.rennes.fr
   kind: url
@@ -38,11 +43,6 @@ items:
   children: []
 - title: Économie et emploi
   target: economie.metropole.rennes.fr
-  kind: url
-  new_tab: false
-  children: []
-- title: Démarches administratives
-  target: demarches.metropole.rennes.fr
   kind: url
   new_tab: false
   children: []
