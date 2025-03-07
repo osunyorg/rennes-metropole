@@ -6,3 +6,4 @@ allowed_domains:
   - "osuny.s3.fr-par.scw.cloud"
   - "tile.openstreetmap.org"
   - "framacarte.org"
+  - "www.youtube.com"
