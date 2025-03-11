@@ -87,13 +87,13 @@ items:
     children: []
     path: "/pages/appels-a-projets-partenariats-et-cooperations"
     file: content/fr/pages/appels-a-projets-partenariats-et-cooperations/_index.html
-  - title: Documents et archives officielles Ville et Métropole
-    target: https://metropole.fr/documents-et-archives-officielles-ville-et-metropole/
-    kind: url
+  - title: Marchés publics et documents réglementaires
+    target: "/marches-publics-et-documents-reglementaires/"
+    kind: page
     new_tab: false
     children: []
-    path: "/pages/documents-et-archives-officielles-ville-et-metropole"
-    file: content/fr/pages/documents-et-archives-officielles-ville-et-metropole/_index.html
+    path: "/pages/marches-publics-et-documents-reglementaires"
+    file: content/fr/pages/marches-publics-et-documents-reglementaires/_index.html
 - title: Votre commune
   target: "/votre-commune/"
   kind: page
