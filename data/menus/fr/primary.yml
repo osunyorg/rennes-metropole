@@ -74,10 +74,12 @@ items:
     path: "/pages/les-institutions-de-la-ville-et-de-la-metropole"
     file: content/fr/pages/les-institutions-de-la-ville-et-de-la-metropole/_index.html
   - title: Participation citoyenne
-    target: https://metropole.fr/participation-citoyenne/
-    kind: url
+    target: "/participation-citoyenne/"
+    kind: page
     new_tab: false
     children: []
+    path: "/pages/participation-citoyenne"
+    file: content/fr/pages/participation-citoyenne/_index.html
   - title: Appels à projets, partenariats et coopérations
     target: https://metropole.fr/appels-a-projets-partenariats-et-cooperations/
     kind: url
