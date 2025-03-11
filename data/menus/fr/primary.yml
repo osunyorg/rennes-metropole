@@ -93,13 +93,17 @@ items:
     path: "/pages/documents-et-archives-officielles-ville-et-metropole"
     file: content/fr/pages/documents-et-archives-officielles-ville-et-metropole/_index.html
 - title: Votre commune
-  target: ''
-  kind: blank
+  target: "/votre-commune/"
+  kind: page
   new_tab: false
   children: []
+  path: "/pages/votre-commune"
+  file: content/fr/pages/votre-commune/_index.html
 - title: Votre quartier
-  target: ''
-  kind: blank
+  target: "/votre-quartier/"
+  kind: page
   new_tab: false
   children: []
+  path: "/pages/votre-quartier"
+  file: content/fr/pages/votre-quartier/_index.html
 
