@@ -32,6 +32,9 @@ fr:
             https://www.youtube.com/@channelUCmWWc_6kL1Pxy8zNSxy79Ww
 
   permalinks:
+    events: /agenda/:year/:slug/
+    exhibitions: /expositions/:year-:month-:day-:slug/
+    events_categories: /agenda/:slug/
     pages_categories: /:slug/
     organizations: /organisations/:slug/
     organizations_categories: /organisations/categories/:slug/
