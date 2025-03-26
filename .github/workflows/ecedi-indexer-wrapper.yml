@@ -1,0 +1,15 @@
+name: ecedi - Content indexation
+
+on:
+  workflow_run:
+    workflows: ["deuxfleurs"]
+    types:
+      - completed
+
+jobs:
+  run-indexer:
+    uses: ecedi/rennes-ville-metropole-workflows/.github/workflows/ecedi-search-engine-indexer.yml@main
+    secrets:
+      ECEDI_INDEXER_API_URL: ${{ secrets.ECEDI_INDEXER_API_URL }}
+      ECEDI_INDEXER_API_KEY: ${{ secrets.ECEDI_INDEXER_API_KEY }}
+      ECEDI_API_BASIC_AUTH: ${{ secrets.ECEDI_API_BASIC_AUTH }}
