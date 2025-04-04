@@ -1,7 +1,7 @@
 ---
 title: Menu principal
 items:
-- title: Vos Services
+- title: Vos services
   target: ''
   kind: blank
   new_tab: false
