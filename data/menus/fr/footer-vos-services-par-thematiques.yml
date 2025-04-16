@@ -32,27 +32,27 @@ items:
   new_tab: false
   children: []
 - title: Logement et urbanisme
-  target: https://logement.metropole.rennes.fr
+  target: https://logement.rennes.osuny.site/
   kind: url
   new_tab: false
   children: []
 - title: Numérique, recherche et temps
-  target: https://numerique-recherche.metropole.rennes.fr
+  target: https://numerique-recherche.rennes.osuny.site/
   kind: url
   new_tab: false
   children: []
 - title: Santé et environnement
-  target: https://environnement-sante.metropole.rennes.fr
+  target: https://environnement-sante.rennes.osuny.site/
   kind: url
   new_tab: false
   children: []
 - title: Culture et Sports
-  target: https://culture-sport.metropole.rennes.fr
+  target: https://culture-sports.rennes.osuny.site/
   kind: url
   new_tab: false
   children: []
 - title: Économie et emploi
-  target: https://economie.metropole.rennes.fr
+  target: https://economie.rennes.osuny.site/
   kind: url
   new_tab: false
   children: []
