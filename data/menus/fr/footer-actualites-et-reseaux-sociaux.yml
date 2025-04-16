@@ -2,7 +2,7 @@
 title: Actualités et réseaux sociaux
 items:
 - title: Ici Rennes Actualités
-  target: ici.rennes.fr
+  target: https://ici.rennes.osuny.site/
   kind: url
   new_tab: true
   children: []
