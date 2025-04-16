@@ -22,7 +22,7 @@ items:
   new_tab: false
   children: []
 - title: Politique de confidentialité
-  target: https://metropole.rennes.fr/politique-de-confidentialite
+  target: https://metropole.rennes.osuny.site/politique-de-confidentialite/
   kind: url
   new_tab: false
   children: []
