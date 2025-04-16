@@ -12,12 +12,10 @@ items:
   new_tab: false
   children: []
 - title: Accessibilité
-  target: https://metropole.rennes.fr/accessibilite
+  target: https://metropole.rennes.osuny.site/accessibilite/
   kind: url
   new_tab: false
   children: []
-  path: "/pages/accessibilite"
-  file: content/fr/pages/accessibilite/_index.html
 - title: Déclaration Numérique d'Intérêt Général
   target: https://metropole.rennes.fr/declaration-numerique-dinteret-general
   kind: url
