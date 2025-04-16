@@ -27,12 +27,10 @@ items:
   new_tab: false
   children: []
 - title: Licence
-  target: https://metropole.rennes.fr/licence
+  target: https://metropole.rennes.osuny.site/licence/
   kind: url
   new_tab: false
   children: []
-  path: "/pages/licence"
-  file: content/fr/pages/licence/_index.html
 - title: Plan du site
   target: "/plan-du-site/"
   kind: page
