@@ -47,7 +47,7 @@ items:
     new_tab: false
     children: []
   - title: Santé et environnement
-    target: https://environnement-sante.metropole.rennes.fr
+    target: https://environnement-sante.rennes.osuny.site/
     kind: url
     new_tab: false
     children: []
