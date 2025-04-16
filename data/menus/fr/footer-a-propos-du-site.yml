@@ -7,12 +7,10 @@ items:
   new_tab: false
   children: []
 - title: Écoconception
-  target: https://metropole.rennes.fr/ecoconception
+  target: https://metropole.rennes.osuny.site/ecoconception/
   kind: url
   new_tab: false
   children: []
-  path: "/pages/ecoconception"
-  file: content/fr/pages/ecoconception/_index.html
 - title: Accessibilité
   target: https://metropole.rennes.fr/accessibilite
   kind: url
