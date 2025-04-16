@@ -7,7 +7,7 @@ items:
   new_tab: false
   children: []
 - title: Aides, solidarités et égalité
-  target: https://aides.metropole.rennes.fr
+  target: https://aides.rennes.osuny.site/
   kind: url
   new_tab: false
   children: []
