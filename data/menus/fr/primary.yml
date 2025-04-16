@@ -57,7 +57,7 @@ items:
     new_tab: false
     children: []
   - title: Culture et Sports
-    target: https://culture-sport.metropole.rennes.fr
+    target: https://culture-sports.rennes.osuny.site/
     kind: url
     new_tab: false
     children: []
