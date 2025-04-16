@@ -17,7 +17,7 @@ items:
     new_tab: false
     children: []
   - title: Démarches administratives
-    target: https://demarches.metropole.rennes.fr
+    target: https://demarches.rennes.osuny.site/
     kind: url
     new_tab: false
     children: []
