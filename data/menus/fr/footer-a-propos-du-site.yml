@@ -31,8 +31,8 @@ items:
   kind: url
   new_tab: false
   children: []
-  path: "/"
-  file: 
+  path: "/pages/licence"
+  file: content/fr/pages/licence/_index.html
 - title: Plan du site
   target: "/plan-du-site/"
   kind: page
