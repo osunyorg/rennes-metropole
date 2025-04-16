@@ -2,7 +2,7 @@
 title: Nos sites pour les professionnels
 items:
 - title: Espace presse
-  target: presse.metropole.rennes.fr
+  target: https://www.presse.metropole.rennes.fr/accueil
   kind: url
   new_tab: true
   children: []
