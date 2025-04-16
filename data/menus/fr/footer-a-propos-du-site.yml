@@ -2,12 +2,10 @@
 title: À propos du site
 items:
 - title: Mentions légales
-  target: https://metropole.rennes.fr/mentions-legales
+  target: https://metropole.rennes.osuny.site/mentions-legales/
   kind: url
   new_tab: false
   children: []
-  path: "/pages/mentions-legales"
-  file: content/fr/pages/mentions-legales/_index.html
 - title: Écoconception
   target: https://metropole.rennes.fr/ecoconception
   kind: url
