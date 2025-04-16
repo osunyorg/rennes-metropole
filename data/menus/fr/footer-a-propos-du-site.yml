@@ -9,10 +9,12 @@ items:
   path: "/pages/mentions-legales"
   file: content/fr/pages/mentions-legales/_index.html
 - title: Écoconception
-  target: https://metropole.rennes.osuny.site/ecoconception/
-  kind: url
+  target: "/ecoconception/"
+  kind: page
   new_tab: false
   children: []
+  path: "/pages/ecoconception"
+  file: content/fr/pages/ecoconception/_index.html
 - title: Accessibilité
   target: https://metropole.rennes.osuny.site/accessibilite/
   kind: url
