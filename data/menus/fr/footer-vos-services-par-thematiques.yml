@@ -22,7 +22,7 @@ items:
   new_tab: false
   children: []
 - title: Enfance, éducation, jeunesse
-  target: https://education-jeunesse.metropole.rennes.fr
+  target: https://education-jeunesse.rennes.osuny.site/
   kind: url
   new_tab: false
   children: []
