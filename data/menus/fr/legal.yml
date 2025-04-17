@@ -8,13 +8,6 @@ items:
   children: []
   path: "/pages/politique-de-confidentialite"
   file: content/fr/pages/politique-de-confidentialite/_index.html
-- title: Accessibilité numérique
-  target: "/accessibilite/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/accessibilite"
-  file: content/fr/pages/accessibilite/_index.html
 - title: Mentions légales
   target: "/mentions-legales/"
   kind: page
