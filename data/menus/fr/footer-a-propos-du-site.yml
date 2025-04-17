@@ -22,7 +22,7 @@ items:
   children: []
   path: "/pages/accessibilite"
   file: content/fr/pages/accessibilite/_index.html
-- title: Politique de confidentialité
+- title: Protection des données personnelles
   target: "/politique-de-confidentialite/"
   kind: page
   new_tab: false
