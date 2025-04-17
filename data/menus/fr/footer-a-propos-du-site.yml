@@ -23,12 +23,12 @@ items:
   path: "/pages/accessibilite"
   file: content/fr/pages/accessibilite/_index.html
 - title: Protection des données personnelles
-  target: "/politique-de-confidentialite/"
+  target: "/protection-donnees-personnelles/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/politique-de-confidentialite"
-  file: content/fr/pages/politique-de-confidentialite/_index.html
+  path: "/pages/protection-donnees-personnelles"
+  file: content/fr/pages/protection-donnees-personnelles/_index.html
 - title: Plan du site
   target: "/plan-du-site/"
   kind: page
