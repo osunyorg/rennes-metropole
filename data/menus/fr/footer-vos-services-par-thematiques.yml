@@ -36,7 +36,7 @@ items:
   kind: url
   new_tab: false
   children: []
-- title: Numérique, recherche et temps
+- title: Numérique et recherche
   target: https://numerique-recherche.rennes.osuny.site/
   kind: url
   new_tab: false
