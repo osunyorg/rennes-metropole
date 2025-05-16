@@ -1,11 +1,12 @@
 theme: rennes-hugo-theme
 _merge: deep
 params:
-  # Is it useful? Should be already set in rennes-hugo-theme.
-  search:
-    active: false
   # RENNES THEME CUSTOM
   custom:
     is_main: true
     external_logo_link:
       active: false
+
+  home:
+    head:
+      title: both # both | page | site
