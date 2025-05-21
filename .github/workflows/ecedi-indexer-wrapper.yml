@@ -2,7 +2,7 @@ name: ecedi - Content indexation
 
 on:
   workflow_run:
-    workflows: ["deuxfleurs"]
+    workflows: ['ecedi - Deployment']
     types:
       - completed
 
