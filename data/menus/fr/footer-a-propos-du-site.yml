@@ -15,6 +15,13 @@ items:
   children: []
   path: "/pages/ecoconception"
   file: content/fr/pages/ecoconception/_index.html
+- title: Accessibilité
+  target: "/accessibilite/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/accessibilite"
+  file: content/fr/pages/accessibilite/_index.html
 - title: Déclaration Numérique d'Intérêt Général
   target: "/declaration-numerique-dinteret-general/"
   kind: page
