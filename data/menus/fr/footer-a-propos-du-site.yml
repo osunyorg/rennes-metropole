@@ -36,7 +36,7 @@ items:
   children: []
   path: "/pages/protection-donnees-personnelles"
   file: content/fr/pages/protection-donnees-personnelles/_index.html
-- title: Licence
+- title: Design system
   target: "/licence/"
   kind: page
   new_tab: false
