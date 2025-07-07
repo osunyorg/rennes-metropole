@@ -12,6 +12,7 @@ allowed_domains:
   - "youtube-nocookie.com"
   - "www.youtube-nocookie.com"
   - "framacarte.org"
+  - "u.osmfr.org"
   - "rennesmetropole.matomo.cloud"
   - "data.rennesmetropole.fr"
   - "marches.megalis.bretagne.bzh"
