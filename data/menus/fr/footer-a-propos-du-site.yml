@@ -22,13 +22,6 @@ items:
   children: []
   path: "/pages/accessibilite"
   file: content/fr/pages/accessibilite/_index.html
-- title: Déclaration Numérique d'Intérêt Général
-  target: "/declaration-numerique-dinteret-general/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/declaration-numerique-dinteret-general"
-  file: content/fr/pages/declaration-numerique-dinteret-general/_index.html
 - title: Politique de confidentialité
   target: "/protection-donnees-personnelles/"
   kind: page
