@@ -7,3 +7,6 @@
 [submodule "modules/search-engine-indexer"]
 	path = modules/search-engine-indexer
 	url = https://github.com/osunyorg/rennes-search-engine-indexer.git
+[submodule "modules/search-engine-indexer-staging"]
+	path = modules/search-engine-indexer-staging
+	url = https://github.com/osunyorg/rennes-search-engine-indexer.git
