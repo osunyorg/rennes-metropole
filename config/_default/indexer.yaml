@@ -1,0 +1,7 @@
+#ECEDI INDEXER CONFIG
+content_dirs:
+  - /content/fr/pages
+has_thematic: true
+taxonomies:
+  - name: 'Rubrique'
+    field_name: 'category'
