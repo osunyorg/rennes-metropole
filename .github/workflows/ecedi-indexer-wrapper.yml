@@ -15,6 +15,7 @@ on:
 
 jobs:
   run-indexer-auto:
+    if: ${{ github.event_name == 'workflow_run' }}
     uses: ecedi/rennes-ville-metropole-workflows/.github/workflows/ecedi-search-engine-indexer.yml@main
     secrets:
       ECEDI_INDEXER_API_URL: ${{ secrets.ECEDI_INDEXER_API_URL }} #Replace with vars input when new search engine is in production
