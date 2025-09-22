@@ -17,21 +17,20 @@ jobs:
   run-indexer-auto:
     if: ${{ github.event_name == 'workflow_run' }}
     uses: ecedi/rennes-ville-metropole-workflows/.github/workflows/ecedi-search-engine-indexer.yml@main
+    api_url: ${{ vars.ECEDI_INDEXER_API_URL }}
+    app_env: production
     secrets:
-      ECEDI_INDEXER_API_URL: ${{ secrets.ECEDI_INDEXER_API_URL }} #Replace with vars input when new search engine is in production
       ECEDI_INDEXER_API_KEY: ${{ secrets.ECEDI_INDEXER_API_KEY }}
       ECEDI_API_BASIC_AUTH: ${{ secrets.ECEDI_API_BASIC_AUTH }}
 
   run-indexer-manual-production:
     if: ${{ github.event_name == 'workflow_dispatch' && inputs.environment == 'production' }}
     uses: ecedi/rennes-ville-metropole-workflows/.github/workflows/ecedi-search-engine-indexer.yml@main
-    # with: #To uncoment when new search engine in prod
-    #  api_url: ${{ vars.ECEDI_INDEXER_API_URL }}
-    #  app_env: production
+    api_url: ${{ vars.ECEDI_INDEXER_API_URL }}
+    app_env: production
     secrets:
       ECEDI_INDEXER_API_KEY: ${{ secrets.ECEDI_INDEXER_API_KEY }}
       ECEDI_API_BASIC_AUTH: ${{ secrets.ECEDI_API_BASIC_AUTH }}
-      ECEDI_INDEXER_API_URL: ${{ secrets.ECEDI_INDEXER_API_URL }} #To remove when new search engine in prod
 
   run-indexer-manual-staging:
     if: ${{ github.event_name == 'workflow_dispatch' && inputs.environment == 'staging' }}
