@@ -17,8 +17,9 @@ jobs:
   run-indexer-auto:
     if: ${{ github.event_name == 'workflow_run' }}
     uses: ecedi/rennes-ville-metropole-workflows/.github/workflows/ecedi-search-engine-indexer.yml@main
-    api_url: ${{ vars.ECEDI_INDEXER_API_URL }}
-    app_env: production
+    with:
+      api_url: ${{ vars.ECEDI_INDEXER_API_URL }}
+      app_env: production
     secrets:
       ECEDI_INDEXER_API_KEY: ${{ secrets.ECEDI_INDEXER_API_KEY }}
       ECEDI_API_BASIC_AUTH: ${{ secrets.ECEDI_API_BASIC_AUTH }}
@@ -26,8 +27,9 @@ jobs:
   run-indexer-manual-production:
     if: ${{ github.event_name == 'workflow_dispatch' && inputs.environment == 'production' }}
     uses: ecedi/rennes-ville-metropole-workflows/.github/workflows/ecedi-search-engine-indexer.yml@main
-    api_url: ${{ vars.ECEDI_INDEXER_API_URL }}
-    app_env: production
+    with:
+      api_url: ${{ vars.ECEDI_INDEXER_API_URL }}
+      app_env: production
     secrets:
       ECEDI_INDEXER_API_KEY: ${{ secrets.ECEDI_INDEXER_API_KEY }}
       ECEDI_API_BASIC_AUTH: ${{ secrets.ECEDI_API_BASIC_AUTH }}
