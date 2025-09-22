@@ -1,6 +1,8 @@
 #ECEDI INDEXER CONFIG
 content_dirs:
   - /content/fr/pages
+exclude_dirs:
+  - /content/fr/pages/plan-du-site
 has_thematic: true
 taxonomies:
   - name: 'Rubrique'
