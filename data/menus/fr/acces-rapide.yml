@@ -1,0 +1,34 @@
+---
+title: Accès rapide
+items:
+- title: Aides et solidarités
+  target: https://aides.metropole.rennes.fr/
+  kind: url
+  new_tab: true
+  children: []
+- title: Démarches administratives
+  target: https://demarches.metropole.rennes.fr/
+  kind: url
+  new_tab: true
+  children: []
+- title: Offres d'emploi
+  target: https://recrutement.rennesmetropole.fr/
+  kind: url
+  new_tab: true
+  children: []
+- title: S'installer à Rennes
+  target: https://demarches.metropole.rennes.fr/sinstaller-a-rennes/
+  kind: url
+  new_tab: true
+  children: []
+- title: Faire un signalement *avec Cité Zen*
+  target: https://transport.metropole.rennes.fr/faire-un-signalement-avec-citezen/
+  kind: url
+  new_tab: true
+  children: []
+- title: Nous contacter
+  target: https://metropole.rennes.fr/contactez-nous/
+  kind: url
+  new_tab: false
+  children: []
+
