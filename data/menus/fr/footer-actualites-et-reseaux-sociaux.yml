@@ -11,6 +11,11 @@ items:
   kind: url
   new_tab: true
   children: []
+- title: Charte de modération des réseaux sociaux
+  target: https://metropole.rennes.fr/charte-de-moderation-des-reseaux-sociaux/
+  kind: url
+  new_tab: true
+  children: []
 - title: Youtube
   target: https://www.youtube.com/channel/UCmWWc_6kL1Pxy8zNSxy79Ww
   kind: url
