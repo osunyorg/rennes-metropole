@@ -3,11 +3,11 @@ title: >-
   Vents violents : vigilance jaune
 level: warning
 content: >-
-  <p>Météo-France a placé le département d'Ille-et-Vilaine en vigilance jaune vents ce jeudi 15 janvier 2026. La Ville de Rennes appelle à la prudence.</p>
+  <p>Météo-France a placé le département d'Ille-et-Vilaine en vigilance jaune vents violents et crues ce jeudi 15 janvier 2026. La Ville de Rennes appelle à la prudence.</p>
 button:
   title: >-
     En savoir plus
   url: >-
-    https://vigilance.meteofrance.fr/fr/ille-et-vilaine/demain
+    https://vigilance.meteofrance.fr/fr/ille-et-vilaine
   target_blank: true
 ---
