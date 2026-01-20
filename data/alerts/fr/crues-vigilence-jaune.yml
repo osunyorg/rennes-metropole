@@ -1,0 +1,13 @@
+---
+title: >-
+  Crues : vigilence jaune
+level: info
+content: >-
+  <p> <b>Mardi 20 janvier, une dépression progresse lentement vers le bassin de l'Illet, qu'elle atteindra en soirée. </b><b>Pluies attendues toute la journée de mercredi 21 janvier sur un sol déjà saturé. </b>  </p>
+button:
+  title: >-
+    consulter le site d'info Vigicrues
+  url: >-
+    https://www.vigicrues.gouv.fr/territoire/8
+  target_blank: true
+---
