@@ -6,8 +6,8 @@ content: >-
   <p>L'Ille-et-Vilaine est placé en vigilance orange crues jusqu'à vendredi, a annoncé Météo-France.</p>
 button:
   title: >-
-    consulter le site d'info Vigicrues
+    Voir notre actualité
   url: >-
-    https://www.vigicrues.gouv.fr/territoire/8
+    https://ici.rennes.fr/actualites/2026-01-22-vigilance-orange-aux-crues-en-ille-et-vilaine-rennes-et-rennes-metropole-mobilisees/
   target_blank: true
 ---
