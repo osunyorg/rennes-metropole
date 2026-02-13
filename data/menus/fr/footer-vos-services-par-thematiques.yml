@@ -2,58 +2,80 @@
 title: Vos services par thématiques
 items:
 - title: Rennes Ville et Métropole
+  slug: rennes-ville-et-metropole
   target: https://metropole.rennes.fr/
   kind: url
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Aides, solidarités et égalité
+  slug: aides-solidarites-et-egalite
   target: https://aides.metropole.rennes.fr/
   kind: url
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Démarches administratives
+  slug: demarches-administratives
   target: https://demarches.metropole.rennes.fr/
   kind: url
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Transports et circulation
+  slug: transports-et-circulation
   target: https://transport.metropole.rennes.fr/
   kind: url
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Enfance, éducation, jeunesse
+  slug: enfance-education-jeunesse
   target: https://education-jeunesse.metropole.rennes.fr/
   kind: url
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Déchets et propreté
+  slug: dechets-et-proprete
   target: https://dechets.metropole.rennes.fr/
   kind: url
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Logement et urbanisme
+  slug: logement-et-urbanisme
   target: https://logement.metropole.rennes.fr/
   kind: url
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Numérique et recherche
+  slug: numerique-et-recherche
   target: https://numerique-recherche.metropole.rennes.fr/
   kind: url
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Santé et environnement
+  slug: sante-et-environnement
   target: https://environnement-sante.metropole.rennes.fr/
   kind: url
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Culture et Sports
+  slug: culture-et-sports
   target: https://culture-sport.metropole.rennes.fr/
   kind: url
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Économie et emploi
+  slug: economie-et-emploi
   target: https://economie.metropole.rennes.fr/
   kind: url
   new_tab: false
   children: []
+  descendants_targets: []
 

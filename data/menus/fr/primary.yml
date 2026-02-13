@@ -2,110 +2,163 @@
 title: Menu principal
 items:
 - title: Vos services
+  slug: vos-services
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Rennes Ville et Métropole
+    slug: rennes-ville-et-metropole
     target: https://metropole.rennes.fr/
     kind: url
     new_tab: false
     children: []
+    descendants_targets: []
   - title: Aides, solidarités et égalité
+    slug: aides-solidarites-et-egalite
     target: https://aides.metropole.rennes.fr/
     kind: url
     new_tab: false
     children: []
+    descendants_targets: []
   - title: Démarches administratives
+    slug: demarches-administratives
     target: https://demarches.metropole.rennes.fr/
     kind: url
     new_tab: false
     children: []
+    descendants_targets: []
   - title: Transports et circulation
+    slug: transports-et-circulation
     target: https://transport.metropole.rennes.fr/
     kind: url
     new_tab: false
     children: []
+    descendants_targets: []
   - title: Enfance, éducation, jeunesse
+    slug: enfance-education-jeunesse
     target: https://education-jeunesse.metropole.rennes.fr/
     kind: url
     new_tab: false
     children: []
+    descendants_targets: []
   - title: Déchets et propreté
+    slug: dechets-et-proprete
     target: https://dechets.metropole.rennes.fr/
     kind: url
     new_tab: false
     children: []
+    descendants_targets: []
   - title: Logement et urbanisme
+    slug: logement-et-urbanisme
     target: https://logement.metropole.rennes.fr/
     kind: url
     new_tab: false
     children: []
+    descendants_targets: []
   - title: Numérique et recherche
+    slug: numerique-et-recherche
     target: https://numerique-recherche.metropole.rennes.fr/
     kind: url
     new_tab: false
     children: []
+    descendants_targets: []
   - title: Santé et environnement
+    slug: sante-et-environnement
     target: https://environnement-sante.metropole.rennes.fr/
     kind: url
     new_tab: false
     children: []
+    descendants_targets: []
   - title: Économie et emploi
+    slug: economie-et-emploi
     target: https://economie.metropole.rennes.fr/
     kind: url
     new_tab: false
     children: []
+    descendants_targets: []
   - title: Culture et Sports
+    slug: culture-et-sports
     target: https://culture-sport.metropole.rennes.fr/
     kind: url
     new_tab: false
     children: []
+    descendants_targets: []
+  descendants_targets:
+  - https://aides.metropole.rennes.fr/
+  - https://culture-sport.metropole.rennes.fr/
+  - https://dechets.metropole.rennes.fr/
+  - https://demarches.metropole.rennes.fr/
+  - https://economie.metropole.rennes.fr/
+  - https://education-jeunesse.metropole.rennes.fr/
+  - https://environnement-sante.metropole.rennes.fr/
+  - https://logement.metropole.rennes.fr/
+  - https://metropole.rennes.fr/
+  - https://numerique-recherche.metropole.rennes.fr/
+  - https://transport.metropole.rennes.fr/
 - title: Vos institutions
+  slug: vos-institutions
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Les institutions de la Ville et de la Métropole
+    slug: les-institutions-de-la-ville-et-de-la-metropole
     target: "/les-institutions-de-la-ville-et-de-la-metropole/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/les-institutions-de-la-ville-et-de-la-metropole"
     file: content/fr/pages/les-institutions-de-la-ville-et-de-la-metropole/_index.html
   - title: Participation citoyenne
+    slug: participation-citoyenne
     target: "/participation-citoyenne/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/participation-citoyenne"
     file: content/fr/pages/participation-citoyenne/_index.html
   - title: Appels à projets, partenariats et coopérations
+    slug: appels-a-projets-partenariats-et-cooperations
     target: "/appels-a-projets-partenariats-et-cooperations/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/appels-a-projets-partenariats-et-cooperations"
     file: content/fr/pages/appels-a-projets-partenariats-et-cooperations/_index.html
   - title: Marchés publics et documents réglementaires
+    slug: marches-publics-et-documents-reglementaires
     target: "/marches-publics-et-documents-reglementaires/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/marches-publics-et-documents-reglementaires"
     file: content/fr/pages/marches-publics-et-documents-reglementaires/_index.html
+  descendants_targets:
+  - "/appels-a-projets-partenariats-et-cooperations/"
+  - "/les-institutions-de-la-ville-et-de-la-metropole/"
+  - "/marches-publics-et-documents-reglementaires/"
+  - "/participation-citoyenne/"
 - title: Votre commune
+  slug: votre-commune
   target: "/votre-commune/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/votre-commune"
   file: content/fr/pages/votre-commune/_index.html
 - title: Votre quartier
+  slug: votre-quartier
   target: "/votre-quartier/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/votre-quartier"
   file: content/fr/pages/votre-quartier/_index.html
 

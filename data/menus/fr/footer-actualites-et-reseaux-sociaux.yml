@@ -2,38 +2,52 @@
 title: Actualités et réseaux sociaux
 items:
 - title: Ici Rennes Actualités
+  slug: ici-rennes-actualites
   target: https://ici.rennes.fr/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Notre app Ici Rennes
+  slug: notre-app-ici-rennes
   target: https://play.google.com/store/apps/details?id=com.ecitiz.ubiloop.icirennes&hl=fr
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Charte de modération des réseaux sociaux
+  slug: charte-de-moderation-des-reseaux-sociaux
   target: https://metropole.rennes.fr/charte-de-moderation-des-reseaux-sociaux/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Youtube
+  slug: youtube
   target: https://www.youtube.com/channel/UCmWWc_6kL1Pxy8zNSxy79Ww
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Linkedin
+  slug: linkedin
   target: https://www.linkedin.com/company/rennes-m-tropole/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Facebook
+  slug: facebook
   target: https://www.facebook.com/metropole.rennes
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Instagram
+  slug: instagram
   target: https://www.instagram.com/rennesvilleetmetropole/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 
