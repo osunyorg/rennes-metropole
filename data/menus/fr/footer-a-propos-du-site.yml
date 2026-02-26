@@ -48,13 +48,13 @@ items:
   file: content/fr/pages/protection-donnees-personnelles/_index.html
 - title: Design system
   slug: design-system
-  target: "/licence/"
+  target: "/design-system/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/pages/licence"
-  file: content/fr/pages/licence/_index.html
+  path: "/pages/design-system"
+  file: content/fr/pages/design-system/_index.html
 - title: Plan du site
   slug: plan-du-site
   target: "/plan-du-site/"
