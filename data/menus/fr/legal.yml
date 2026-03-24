@@ -1,0 +1,40 @@
+---
+title: Informations légales
+items:
+- title: Protection des données personnelles
+  slug: protection-des-donnees-personnelles
+  target: "/protection-donnees-personnelles/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/protection-donnees-personnelles"
+  file: content/fr/pages/protection-donnees-personnelles/_index.html
+- title: 'Accessibilité '
+  slug: accessibilite
+  target: "/accessibilite/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/accessibilite"
+  file: content/fr/pages/accessibilite/_index.html
+- title: Mentions légales
+  slug: mentions-legales
+  target: "/mentions-legales/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/mentions-legales"
+  file: content/fr/pages/mentions-legales/_index.html
+- title: Plan du site
+  slug: plan-du-site
+  target: "/plan-du-site/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/plan-du-site"
+  file: content/fr/pages/plan-du-site/_index.html
+
