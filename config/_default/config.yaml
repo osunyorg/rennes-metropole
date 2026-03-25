@@ -10,3 +10,7 @@ params:
   home:
     head:
       title: both # both | page | site
+
+  persons:
+    single:
+      backlinks: true
