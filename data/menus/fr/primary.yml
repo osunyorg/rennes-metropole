@@ -10,8 +10,8 @@ items:
   descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: Équipe
-  slug: equipe
+- title: 'Annuaire des élus '
+  slug: annuaire-des-elus
   target: "/"
   kind: page
   new_tab: false
