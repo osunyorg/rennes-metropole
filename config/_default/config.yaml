@@ -12,5 +12,7 @@ params:
       title: both # both | page | site
 
   persons:
+    index:
+      layout: list
     single:
       backlinks: true
