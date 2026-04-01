@@ -1,33 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
-  slug: actualites
-  target: "/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
-- title: 'Annuaire des élus '
-  slug: annuaire-des-elus
-  target: "/annuaire-des-elus/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/persons"
-  file: content/fr/persons/_index.html
-- title: Organisations
-  slug: organisations
-  target: "/organisations/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/organizations"
-  file: content/fr/organizations/_index.html
 - title: Les institutions de la Ville et de la Métropole
   slug: les-institutions-de-la-ville-et-de-la-metropole
   target: "/les-institutions-de-la-ville-et-de-la-metropole/"
@@ -297,15 +270,6 @@ items:
     descendants_targets: []
     path: "/pages/marches-publics-et-documents-reglementaires/documents-officiels-de-la-ville-de-rennes"
     file: content/fr/pages/marches-publics-et-documents-reglementaires/documents-officiels-de-la-ville-de-rennes/_index.html
-  - title: Archives des documents officiels de Rennes Métropole
-    slug: archives-des-documents-officiels-de-rennes-metropole
-    target: "/marches-publics-et-documents-reglementaires/archives-des-documents-officiels-de-rennes-metropole/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/marches-publics-et-documents-reglementaires/archives-des-documents-officiels-de-rennes-metropole"
-    file: content/fr/pages/marches-publics-et-documents-reglementaires/archives-des-documents-officiels-de-rennes-metropole/_index.html
   - title: Archives des documents officiels de la Ville de Rennes
     slug: archives-des-documents-officiels-de-la-ville-de-rennes
     target: "/marches-publics-et-documents-reglementaires/archives-des-documents-officiels-de-la-ville-de-rennes/"
@@ -315,6 +279,15 @@ items:
     descendants_targets: []
     path: "/pages/marches-publics-et-documents-reglementaires/archives-des-documents-officiels-de-la-ville-de-rennes"
     file: content/fr/pages/marches-publics-et-documents-reglementaires/archives-des-documents-officiels-de-la-ville-de-rennes/_index.html
+  - title: Archives des documents officiels de Rennes Métropole
+    slug: archives-des-documents-officiels-de-rennes-metropole
+    target: "/marches-publics-et-documents-reglementaires/archives-des-documents-officiels-de-rennes-metropole/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/marches-publics-et-documents-reglementaires/archives-des-documents-officiels-de-rennes-metropole"
+    file: content/fr/pages/marches-publics-et-documents-reglementaires/archives-des-documents-officiels-de-rennes-metropole/_index.html
   descendants_targets:
   - "/marches-publics-et-documents-reglementaires/archives-des-documents-officiels-de-la-ville-de-rennes/"
   - "/marches-publics-et-documents-reglementaires/archives-des-documents-officiels-de-rennes-metropole/"
@@ -324,24 +297,6 @@ items:
   - "/marches-publics-et-documents-reglementaires/repondre-aux-marches-publics-et-facturer-en-ligne/"
   path: "/pages/marches-publics-et-documents-reglementaires"
   file: content/fr/pages/marches-publics-et-documents-reglementaires/_index.html
-- title: Écoconception
-  slug: ecoconception
-  target: "/ecoconception/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/ecoconception"
-  file: content/fr/pages/ecoconception/_index.html
-- title: Déclaration Numérique d'Intérêt Général
-  slug: declaration-numerique-d-interet-general
-  target: "/declaration-numerique-dinteret-general/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/declaration-numerique-dinteret-general"
-  file: content/fr/pages/declaration-numerique-dinteret-general/_index.html
 - title: Votre quartier
   slug: votre-quartier
   target: "/votre-quartier/"
@@ -521,6 +476,51 @@ items:
   - "/votre-quartier/securite/"
   path: "/pages/votre-quartier"
   file: content/fr/pages/votre-quartier/_index.html
+- title: 'Annuaire des élus '
+  slug: annuaire-des-elus
+  target: "/annuaire-des-elus/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/persons"
+  file: content/fr/persons/_index.html
+- title: Organisations
+  slug: organisations
+  target: "/organisations/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/organizations"
+  file: content/fr/organizations/_index.html
+- title: Actualités
+  slug: actualites
+  target: "/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/posts"
+  file: content/fr/posts/_index.html
+- title: Écoconception
+  slug: ecoconception
+  target: "/ecoconception/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/ecoconception"
+  file: content/fr/pages/ecoconception/_index.html
+- title: Déclaration Numérique d'Intérêt Général
+  slug: declaration-numerique-d-interet-general
+  target: "/declaration-numerique-dinteret-general/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/declaration-numerique-dinteret-general"
+  file: content/fr/pages/declaration-numerique-dinteret-general/_index.html
 - title: Votre commune
   slug: votre-commune
   target: "/votre-commune/"
