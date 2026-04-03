@@ -61,15 +61,6 @@ items:
     descendants_targets: []
     path: "/pages/les-institutions-de-la-ville-et-de-la-metropole/elus-municipaux"
     file: content/fr/pages/les-institutions-de-la-ville-et-de-la-metropole/elus-municipaux/_index.html
-  - title: Budget Rennes Métropole
-    slug: budget-rennes-metropole
-    target: "/les-institutions-de-la-ville-et-de-la-metropole/budget-rennes-metropole/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/les-institutions-de-la-ville-et-de-la-metropole/budget-rennes-metropole"
-    file: content/fr/pages/les-institutions-de-la-ville-et-de-la-metropole/budget-rennes-metropole/_index.html
   - title: Budget Ville de Rennes
     slug: budget-ville-de-rennes
     target: "/les-institutions-de-la-ville-et-de-la-metropole/budget-ville-de-rennes/"
@@ -79,6 +70,15 @@ items:
     descendants_targets: []
     path: "/pages/les-institutions-de-la-ville-et-de-la-metropole/budget-ville-de-rennes"
     file: content/fr/pages/les-institutions-de-la-ville-et-de-la-metropole/budget-ville-de-rennes/_index.html
+  - title: Budget Rennes Métropole
+    slug: budget-rennes-metropole
+    target: "/les-institutions-de-la-ville-et-de-la-metropole/budget-rennes-metropole/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/les-institutions-de-la-ville-et-de-la-metropole/budget-rennes-metropole"
+    file: content/fr/pages/les-institutions-de-la-ville-et-de-la-metropole/budget-rennes-metropole/_index.html
   - title: Le Baro'Métropole
     slug: le-baro-metropole
     target: "/les-institutions-de-la-ville-et-de-la-metropole/barometropole/"
@@ -297,6 +297,15 @@ items:
   - "/marches-publics-et-documents-reglementaires/repondre-aux-marches-publics-et-facturer-en-ligne/"
   path: "/pages/marches-publics-et-documents-reglementaires"
   file: content/fr/pages/marches-publics-et-documents-reglementaires/_index.html
+- title: Votre commune
+  slug: votre-commune
+  target: "/votre-commune/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/votre-commune"
+  file: content/fr/pages/votre-commune/_index.html
 - title: Votre quartier
   slug: votre-quartier
   target: "/votre-quartier/"
@@ -503,6 +512,24 @@ items:
   descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
+- title: Schéma pluriannuel d'accessibilité numérique – Rennes, Ville et Métropole
+  slug: schema-pluriannuel-d-accessibilite-numerique-rennes-ville-et-metropole
+  target: "/schema-pluriannuel-daccessibilite-numerique-de-rennes-ville-et-metropole/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/schema-pluriannuel-daccessibilite-numerique-de-rennes-ville-et-metropole"
+  file: content/fr/pages/schema-pluriannuel-daccessibilite-numerique-de-rennes-ville-et-metropole/_index.html
+- title: 'Accéo : un contact accessible pour les personnes sourdes ou malentendantes'
+  slug: acceo-un-contact-accessible-pour-les-personnes-sourdes-ou-malentendantes
+  target: "/acceo/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/acceo"
+  file: content/fr/pages/acceo/_index.html
 - title: Écoconception
   slug: ecoconception
   target: "/ecoconception/"
@@ -512,6 +539,15 @@ items:
   descendants_targets: []
   path: "/pages/ecoconception"
   file: content/fr/pages/ecoconception/_index.html
+- title: Résultats de l'audit RGESN
+  slug: resultats-de-l-audit-rgesn
+  target: "/resultats-de-laudit-rgesn/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/resultats-de-laudit-rgesn"
+  file: content/fr/pages/resultats-de-laudit-rgesn/_index.html
 - title: Déclaration Numérique d'Intérêt Général
   slug: declaration-numerique-d-interet-general
   target: "/declaration-numerique-dinteret-general/"
@@ -521,15 +557,24 @@ items:
   descendants_targets: []
   path: "/pages/declaration-numerique-dinteret-general"
   file: content/fr/pages/declaration-numerique-dinteret-general/_index.html
-- title: Votre commune
-  slug: votre-commune
-  target: "/votre-commune/"
+- title: Charte de modération des réseaux sociaux
+  slug: charte-de-moderation-des-reseaux-sociaux
+  target: "/charte-de-moderation-des-reseaux-sociaux/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/pages/votre-commune"
-  file: content/fr/pages/votre-commune/_index.html
+  path: "/pages/charte-de-moderation-des-reseaux-sociaux"
+  file: content/fr/pages/charte-de-moderation-des-reseaux-sociaux/_index.html
+- title: Design System
+  slug: design-system
+  target: "/design-system/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/design-system"
+  file: content/fr/pages/design-system/_index.html
 - title: Expositions
   slug: expositions
   target: "/"
@@ -548,15 +593,6 @@ items:
   descendants_targets: []
   path: "/pages/professionnels"
   file: content/fr/pages/professionnels/_index.html
-- title: Design System
-  slug: design-system
-  target: "/design-system/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/design-system"
-  file: content/fr/pages/design-system/_index.html
 - title: 'Contactez-nous '
   slug: contactez-nous
   target: "/contactez-nous/"
@@ -566,40 +602,4 @@ items:
   descendants_targets: []
   path: "/pages/contactez-nous"
   file: content/fr/pages/contactez-nous/_index.html
-- title: 'Accéo : un contact accessible pour les personnes sourdes ou malentendantes'
-  slug: acceo-un-contact-accessible-pour-les-personnes-sourdes-ou-malentendantes
-  target: "/acceo/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/acceo"
-  file: content/fr/pages/acceo/_index.html
-- title: Résultats de l'audit RGESN
-  slug: resultats-de-l-audit-rgesn
-  target: "/resultats-de-laudit-rgesn/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/resultats-de-laudit-rgesn"
-  file: content/fr/pages/resultats-de-laudit-rgesn/_index.html
-- title: Schéma pluriannuel d'accessibilité numérique – Rennes, Ville et Métropole
-  slug: schema-pluriannuel-d-accessibilite-numerique-rennes-ville-et-metropole
-  target: "/schema-pluriannuel-daccessibilite-numerique-de-rennes-ville-et-metropole/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/schema-pluriannuel-daccessibilite-numerique-de-rennes-ville-et-metropole"
-  file: content/fr/pages/schema-pluriannuel-daccessibilite-numerique-de-rennes-ville-et-metropole/_index.html
-- title: Charte de modération des réseaux sociaux
-  slug: charte-de-moderation-des-reseaux-sociaux
-  target: "/charte-de-moderation-des-reseaux-sociaux/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/charte-de-moderation-des-reseaux-sociaux"
-  file: content/fr/pages/charte-de-moderation-des-reseaux-sociaux/_index.html
 
