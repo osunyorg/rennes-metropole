@@ -61,15 +61,6 @@ items:
     descendants_targets: []
     path: "/pages/les-institutions-de-la-ville-et-de-la-metropole/elus-municipaux"
     file: content/fr/pages/les-institutions-de-la-ville-et-de-la-metropole/elus-municipaux/_index.html
-  - title: Budget Ville de Rennes
-    slug: budget-ville-de-rennes
-    target: "/les-institutions-de-la-ville-et-de-la-metropole/budget-ville-de-rennes/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/les-institutions-de-la-ville-et-de-la-metropole/budget-ville-de-rennes"
-    file: content/fr/pages/les-institutions-de-la-ville-et-de-la-metropole/budget-ville-de-rennes/_index.html
   - title: Budget Rennes Métropole
     slug: budget-rennes-metropole
     target: "/les-institutions-de-la-ville-et-de-la-metropole/budget-rennes-metropole/"
@@ -79,6 +70,15 @@ items:
     descendants_targets: []
     path: "/pages/les-institutions-de-la-ville-et-de-la-metropole/budget-rennes-metropole"
     file: content/fr/pages/les-institutions-de-la-ville-et-de-la-metropole/budget-rennes-metropole/_index.html
+  - title: Budget Ville de Rennes
+    slug: budget-ville-de-rennes
+    target: "/les-institutions-de-la-ville-et-de-la-metropole/budget-ville-de-rennes/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/les-institutions-de-la-ville-et-de-la-metropole/budget-ville-de-rennes"
+    file: content/fr/pages/les-institutions-de-la-ville-et-de-la-metropole/budget-ville-de-rennes/_index.html
   - title: Le Baro'Métropole
     slug: le-baro-metropole
     target: "/les-institutions-de-la-ville-et-de-la-metropole/barometropole/"
@@ -252,15 +252,6 @@ items:
     descendants_targets: []
     path: "/pages/marches-publics-et-documents-reglementaires/repondre-aux-marches-publics-et-facturer-en-ligne"
     file: content/fr/pages/marches-publics-et-documents-reglementaires/repondre-aux-marches-publics-et-facturer-en-ligne/_index.html
-  - title: Documents officiels de la Ville de Rennes
-    slug: documents-officiels-de-la-ville-de-rennes
-    target: "/marches-publics-et-documents-reglementaires/documents-officiels-de-la-ville-de-rennes/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/marches-publics-et-documents-reglementaires/documents-officiels-de-la-ville-de-rennes"
-    file: content/fr/pages/marches-publics-et-documents-reglementaires/documents-officiels-de-la-ville-de-rennes/_index.html
   - title: Documents officiels de Rennes métropole
     slug: documents-officiels-de-rennes-metropole
     target: "/marches-publics-et-documents-reglementaires/documents-officiels-de-rennes-metropole/"
@@ -270,15 +261,15 @@ items:
     descendants_targets: []
     path: "/pages/marches-publics-et-documents-reglementaires/documents-officiels-de-rennes-metropole"
     file: content/fr/pages/marches-publics-et-documents-reglementaires/documents-officiels-de-rennes-metropole/_index.html
-  - title: Archives des documents officiels de Rennes Métropole
-    slug: archives-des-documents-officiels-de-rennes-metropole
-    target: "/marches-publics-et-documents-reglementaires/archives-des-documents-officiels-de-rennes-metropole/"
+  - title: Documents officiels de la Ville de Rennes
+    slug: documents-officiels-de-la-ville-de-rennes
+    target: "/marches-publics-et-documents-reglementaires/documents-officiels-de-la-ville-de-rennes/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/marches-publics-et-documents-reglementaires/archives-des-documents-officiels-de-rennes-metropole"
-    file: content/fr/pages/marches-publics-et-documents-reglementaires/archives-des-documents-officiels-de-rennes-metropole/_index.html
+    path: "/pages/marches-publics-et-documents-reglementaires/documents-officiels-de-la-ville-de-rennes"
+    file: content/fr/pages/marches-publics-et-documents-reglementaires/documents-officiels-de-la-ville-de-rennes/_index.html
   - title: Archives des documents officiels de la Ville de Rennes
     slug: archives-des-documents-officiels-de-la-ville-de-rennes
     target: "/marches-publics-et-documents-reglementaires/archives-des-documents-officiels-de-la-ville-de-rennes/"
@@ -288,6 +279,15 @@ items:
     descendants_targets: []
     path: "/pages/marches-publics-et-documents-reglementaires/archives-des-documents-officiels-de-la-ville-de-rennes"
     file: content/fr/pages/marches-publics-et-documents-reglementaires/archives-des-documents-officiels-de-la-ville-de-rennes/_index.html
+  - title: Archives des documents officiels de Rennes Métropole
+    slug: archives-des-documents-officiels-de-rennes-metropole
+    target: "/marches-publics-et-documents-reglementaires/archives-des-documents-officiels-de-rennes-metropole/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/marches-publics-et-documents-reglementaires/archives-des-documents-officiels-de-rennes-metropole"
+    file: content/fr/pages/marches-publics-et-documents-reglementaires/archives-des-documents-officiels-de-rennes-metropole/_index.html
   descendants_targets:
   - "/marches-publics-et-documents-reglementaires/archives-des-documents-officiels-de-la-ville-de-rennes/"
   - "/marches-publics-et-documents-reglementaires/archives-des-documents-officiels-de-rennes-metropole/"
