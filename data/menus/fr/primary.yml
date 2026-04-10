@@ -61,15 +61,6 @@ items:
     descendants_targets: []
     path: "/pages/les-institutions-de-la-ville-et-de-la-metropole/elus-municipaux"
     file: content/fr/pages/les-institutions-de-la-ville-et-de-la-metropole/elus-municipaux/_index.html
-  - title: Budget Ville de Rennes
-    slug: budget-ville-de-rennes
-    target: "/les-institutions-de-la-ville-et-de-la-metropole/budget-ville-de-rennes/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/les-institutions-de-la-ville-et-de-la-metropole/budget-ville-de-rennes"
-    file: content/fr/pages/les-institutions-de-la-ville-et-de-la-metropole/budget-ville-de-rennes/_index.html
   - title: Budget Rennes Métropole
     slug: budget-rennes-metropole
     target: "/les-institutions-de-la-ville-et-de-la-metropole/budget-rennes-metropole/"
@@ -79,6 +70,15 @@ items:
     descendants_targets: []
     path: "/pages/les-institutions-de-la-ville-et-de-la-metropole/budget-rennes-metropole"
     file: content/fr/pages/les-institutions-de-la-ville-et-de-la-metropole/budget-rennes-metropole/_index.html
+  - title: Budget Ville de Rennes
+    slug: budget-ville-de-rennes
+    target: "/les-institutions-de-la-ville-et-de-la-metropole/budget-ville-de-rennes/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/les-institutions-de-la-ville-et-de-la-metropole/budget-ville-de-rennes"
+    file: content/fr/pages/les-institutions-de-la-ville-et-de-la-metropole/budget-ville-de-rennes/_index.html
   - title: Le Baro'Métropole
     slug: le-baro-metropole
     target: "/les-institutions-de-la-ville-et-de-la-metropole/barometropole/"
