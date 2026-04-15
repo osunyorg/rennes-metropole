@@ -25,7 +25,7 @@ items:
     descendants_targets: []
     path: "/pages/les-institutions-de-la-ville-et-de-la-metropole/conseil-metropolitain"
     file: content/fr/pages/les-institutions-de-la-ville-et-de-la-metropole/conseil-metropolitain/_index.html
-  - title: Elus métropolitains
+  - title: Élus métropolitains
     slug: elus-metropolitains
     target: "/les-institutions-de-la-ville-et-de-la-metropole/elus-metropolitains/"
     kind: page
@@ -52,7 +52,7 @@ items:
     descendants_targets: []
     path: "/pages/les-institutions-de-la-ville-et-de-la-metropole/conseil-municipal"
     file: content/fr/pages/les-institutions-de-la-ville-et-de-la-metropole/conseil-municipal/_index.html
-  - title: Elus municipaux
+  - title: Élus municipaux
     slug: elus-municipaux
     target: "/les-institutions-de-la-ville-et-de-la-metropole/elus-municipaux/"
     kind: page
