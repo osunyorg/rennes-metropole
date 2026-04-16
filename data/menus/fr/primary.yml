@@ -505,7 +505,7 @@ items:
   file: content/fr/organizations/_index.html
 - title: Actualités
   slug: actualites
-  target: "/"
+  target: "/actualites/"
   kind: page
   new_tab: false
   children: []
@@ -577,7 +577,7 @@ items:
   file: content/fr/pages/design-system/_index.html
 - title: Expositions
   slug: expositions
-  target: "/"
+  target: "/expositions/"
   kind: page
   new_tab: false
   children: []
