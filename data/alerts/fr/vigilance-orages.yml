@@ -1,0 +1,14 @@
+---
+id: 64b18e2c-cf36-4227-94fc-82d3c53b1d56
+title: >-
+  Vigilance orages
+level: info
+content: >-
+  <p>Le  département d'Ille-et-Vilaine est placé en vigilance jaune pour risque d'orages. Des rafales de vent pourraient atteindre 95km/h entre le lundi 4 mai 15h et le mercredi 6 mai 8h, et être accompagnées de fortes précipitations. Soyez vigilants.</p>
+button:
+  title: >-
+    Voir le bulletin de Météo-France
+  url: >-
+    https://vigilance.meteofrance.fr/fr/ille-et-vilaine
+  target_blank: true
+---
