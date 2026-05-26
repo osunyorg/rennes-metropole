@@ -1,0 +1,14 @@
+---
+id: ccfc1646-438c-4a80-a6bd-d16d1c71aae3
+title: >-
+  Alerte canicule
+level: warning
+content: >-
+  <p>Le département d'Ille-et-Vilaine est placé en vigilance orange canicule ce mardi 26 mai. Soyez vigilants.</p>
+button:
+  title: >-
+    En savoir plus
+  url: >-
+    https://vigilance.meteofrance.fr/fr/ille-et-vilaine
+  target_blank: true
+---
