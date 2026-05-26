@@ -1,14 +1,14 @@
 ---
 id: ccfc1646-438c-4a80-a6bd-d16d1c71aae3
 title: >-
-  Alerte canicule
+  Alerte canicule : soyez vigilants
 level: warning
 content: >-
-  <p>Le département d'Ille-et-Vilaine est placé en vigilance orange canicule ce mardi 26 mai. Soyez vigilants.</p>
+  <p> Météo-France a placé le département   d'Ille-et-Vilaine en vigilance orange canicule à compter de ce mardi soir minuit.   Les fortes chaleurs devraient perdurer jusqu'au jeudi 28 mai. La Ville de   Rennes est mobilisée pour prévenir leurs effets sanitaires et protéger la   population.  </p>
 button:
   title: >-
     En savoir plus
   url: >-
-    https://vigilance.meteofrance.fr/fr/ille-et-vilaine
+    https://ici.rennes.fr/actualites/2026-05-26-alerte-canicule-quelles-implications-a-rennes-et-dans-la-metropole/
   target_blank: true
 ---
