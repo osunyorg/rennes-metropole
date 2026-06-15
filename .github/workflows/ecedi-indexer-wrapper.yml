@@ -2,7 +2,7 @@ name: ecedi - Content indexation
 
 on:
   workflow_run:
-    workflows: ['ecedi - Deployment']
+    workflows: ['ecedi - Deploy Wrapper']
     types:
       - completed
   workflow_dispatch:
