@@ -1,10 +1,10 @@
 ---
 id: 9847f4b9-d5ea-4d6e-aa11-4d64fdaa6ed0
 title: >-
-  Fortes chaleurs : soyez vigilants
-level: info
+  Alerte rouge canicule : soyez vigilants
+level: warning
 content: >-
-  <p> Météo France annonce une vague de très fortes chaleurs dans les jours à venir. La Ville de Rennes s'adapte : recensement des ilots de fraicheurs et des points d'eau, aménagement des horaires (école, déchèterie), protection des plus vulnérables...</p>
+  <p> Météo France a placé l'Ille-et-Vilaine en alerte rouge canicule ce lundi 22 juin 2026, et les prochains jours s'annoncent caniculaires. La Ville de Rennes s'adapte toute la semaine : ilots de fraicheurs, points d'eau, aménagement des horaires (école, déchèterie), protection des plus vulnérables...</p>
 button:
   title: >-
     En savoir plus
