@@ -7,6 +7,9 @@ params:
     external_logo_link:
       active: false
 
+  debug:
+    productionUrl: https://metropole.rennes.fr
+
   home:
     head:
       title: both # both | page | site
