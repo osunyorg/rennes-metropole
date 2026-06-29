@@ -15,6 +15,6 @@ allowed_domains:
   - "umap.openstreetmap.fr"
   - "data.rennesmetropole.fr"
   - "marches.megalis.bretagne.bzh"
+  - "framacarte.org"
   - "mviewer.sig.rennesmetropole.fr"
   - "metropole.rennes.fr"
-  - "framacarte.org"
