@@ -1,10 +1,10 @@
 ---
 id: ba7fdacb-dbbb-428b-8049-794dc9bb8290
 title: >-
-  Vigilance jaune Orages et Canicule
-level: info
+  Orages : vigilance orange à partir de 15h
+level: warning
 content: >-
-  <p> Météo France a abaissé l'Ille-et-Vilaine en vigilance jaune Canicule à partir du mercredi 15 juillet. Le département est également classé en vigilance jaune Orages de 9h à 21h.  Restez vigilants.</p>
+  <p>Météo France place l'Ille-et-Vilaine en vigilance orange Orages à partir de 15h mercredi 15 juillet. Ils pourraient être localement forts et pluvieux. Soyez vigilants. Par ailleurs, le département est toujours en vigilance jaune Canicule.</p>
 button:
   title: >-
     En savoir plus
