@@ -19,7 +19,7 @@ items:
   descendants_targets: []
   path: "/pages/mentions-legales"
   file: content/fr/pages/mentions-legales/_index.html
-- title: 'Accessibilité '
+- title: Accessibilité
   slug: accessibilite
   target: "/accessibilite/"
   kind: page
